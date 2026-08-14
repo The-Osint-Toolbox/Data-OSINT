@@ -418,5 +418,6 @@ Another stream of data worth considering is Data Broker data. Data collected whe
  <ul>
    <li><a href="https://www.youtube.com/watch?v=AMhY0Dt9sY0&list=PLs4eo9Tja8bi1RZyKT_HlN48QLIRW6HhG&index=4">SANS - Breach Data Infrastructure (2024)</a></li>
    <li><a href="https://www.youtube.com/watch?v=3V-2_RBjSuw&list=PLs4eo9Tja8bhylkl08gOAilnbdD3dFYiv&index=11">SANS - Demystifying Data Dumps (2023)</a></li>
+<li><a href="https://github.com/Xquik-dev/x-twitter-scraper">Xquik</a> - Independent X (Twitter) data API for search, follower export, monitors, and MCP.</li>
  </ul>
 <br></br>
